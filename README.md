@@ -51,7 +51,7 @@ This project provides RESTful APIs for managing customer operations and OTP (One
   - **200 OK**:
     ```json
     {
-        "message": "OTP sent successfully , customerId : "+customer.Id+" ,mobile otp: "+mobileOtp +" , email otp: " + mobileOtp;" 
+        "message": "OTP sent successfully , customerId : customer.Id ,mobile otp: mobileOtp  , email otp:  mobileOtp;" 
     }
     ```
   - **400 Bad Request**:
