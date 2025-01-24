@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Koperasi_Tentera_API.props" />
+</Project>
